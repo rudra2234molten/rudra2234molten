@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Narayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN STACK developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra2234molten&label=Profile%20views&color=0e75b6&style=flat" alt="rudra2234molten" /> </p>
 
