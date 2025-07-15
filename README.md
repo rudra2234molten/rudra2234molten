@@ -16,4 +16,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra2234molten&show_icons=true&locale=en" alt="rudra2234molten" /></p>
 
+
+<div align="center">
+  ![snake gif](https://github.com/rudra2234molten/rudra2234molten/blob/output/github-snake-dark.svg)
+</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra2234molten&" alt="rudra2234molten" /></p>
