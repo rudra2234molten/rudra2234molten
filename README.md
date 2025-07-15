@@ -18,7 +18,11 @@
 
 
 <div align="center">
+  
   ![snake gif](https://github.com/rudra2234molten/rudra2234molten/blob/output/github-snake-dark.svg)
+  
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra2234molten&" alt="rudra2234molten" /></p>
+<div align="center">
+<a href='https://its-rudra-narayan.netlify.app/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
