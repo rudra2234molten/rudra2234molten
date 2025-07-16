@@ -1,5 +1,4 @@
 <h1 align="center" >Hi 👋, I'm Rudra Narayan</h1>
-
 # 💫 About Me:
 👋 I’m, a passionate Computer Science and Engineering graduate from Gandhi Institute for Education and Technology. I specialize in full-stack web development with strong hands-on experience in ReactJS, Django, Python, and MongoDB. Over the past few years, I’ve developed a variety of real-world projects, including clones of Netflix, Instagram, and Mercedes-Benz, as well as a Bank Management System and object detection software using the YOLO algorithm. My expertise spans frontend design with Tailwind CSS and GSAP, backend logic with Django, and secure user authentication with JWT. I’m always eager to learn, build, and contribute to open-source projects that solve real-world problems. Check out my work and feel free to connect!
 
