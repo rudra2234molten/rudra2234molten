@@ -39,7 +39,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/rudra2234molten/rudra2234molte/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/rudra2234molten/rudra2234molten/blob/output/github-snake-dark.svg)
   
 </div>
 
